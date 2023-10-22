@@ -3,7 +3,7 @@
 
 ## Features
 
-- [ubuntu server](https://ubuntu.com/download/server)
+- [Ubuntu server](https://ubuntu.com/download/server)
 - [Nginx](https://www.nginx.com/)
 - [Mysql](https://www.mysql.com/)
 - [Php](https://www.php.net/)
