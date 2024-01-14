@@ -1,4 +1,4 @@
-# LEMP
+# LNMP
 ## Linux + Nginx + MySQL + PHP.
 
 ## Features
