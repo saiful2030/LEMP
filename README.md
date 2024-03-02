@@ -195,7 +195,10 @@ jika php versi 8.3 (rekomendasi php versi 8.1)
 
 ```
 sudo apt-get purge php8.3*
-```sh
+```
 ```
 sudo add-apt-repository ppa:ondrej/php
+```
+```
 sudo apt-get install php8.1 php8.1-common php8.1-cli
+```
